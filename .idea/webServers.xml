@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="119a065d-156f-448a-838b-df80e39f5f4f" name="SimSim">
+        <fileTransfer accessType="SFTP" host="91.218.231.213" port="22" sshConfigId="ca42c7f8-8b47-4c23-bb3c-7b3b38aee9db" sshConfig="SimSim">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
